@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    background: #03f089;
+    background: linear-gradient(#7dd6f1ee,#bef18fee,#f29e66,#94939b)
+}
+
+
+.container {
+    display: flex;
+    width: auto;
+    padding: 80px;
+    margin: auto;
+}
+
+.task {
+    align-content: center;
+    margin-left: 180px;
+    margin-top: 200px;
+}
