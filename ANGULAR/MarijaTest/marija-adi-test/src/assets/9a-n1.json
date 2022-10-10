@@ -1,0 +1,110 @@
+
+  {
+    "building": 1,
+    "floor": 1,
+    "warehouse": {
+      "fruit": [
+        {
+          "name": "Banane",
+          "quantity":1
+        },
+        {
+          "name": "Jabolka",
+          "quantity": 1
+        },
+        {
+          "name": "Slive",
+          "quantity": 11
+        },
+        {
+          "name": "Limone",
+          "quantity": 21
+        },
+        {
+          "name": "Breskve",
+          "quantity": 20
+        },
+        {
+          "name": "Grozje",
+          "quantity": 20
+        },
+        {
+          "name": "Jagode",
+          "quantity": 20
+        }
+      ],
+      "officeMaterials": [
+        {
+          "name": "Kulije",
+          "quantity": 5
+        },
+        {
+          "name": "Tonerji",
+          "quantity": 5
+        },
+        {
+          "name": "Fascikli",
+          "quantity": 5
+        },
+        {
+          "name": "Papir",
+          "quantity": 5
+        },
+        {
+          "name": "Markerji",
+          "quantity": 5
+        },
+        {
+          "name": "Svinckini",
+          "quantity": 5
+        },
+        {
+          "name": "Kuverte",
+          "quantity": 5
+        },
+        {
+          "name": "Flomastri",
+          "quantity": 5
+        },
+        {
+          "name": "Vlozki in mine",
+          "quantity": 5
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Kava",
+          "quantity":2
+        },
+        {
+          "name": "Mleko",
+          "quantity": 3
+        },
+        {
+          "name": "Coca-Cola",
+          "quantity": 5
+        },
+        {
+          "name": "Pomarancni",
+          "quantity": 6
+        },
+        {
+          "name": "Jabolcni",
+          "quantity": 7
+        },
+        {
+          "name": "Voda",
+          "quantity": 5
+        },
+        {
+          "name": "Cocta",
+          "quantity": 5
+        },
+        {
+          "name": "Sola",
+          "quantity": 5
+        }
+      ]
+    }
+  }
+

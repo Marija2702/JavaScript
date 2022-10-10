@@ -1,0 +1,11 @@
+<!-- buttonClicked is the event emitted from sum-menu component -->
+<app-sub-menu ></app-sub-menu>
+<div *ngIf="warehouse">
+  <h1  class="text-center">{{warehouse.building == 1 ? 'Stegne 9a' : 'Stegne 11c'}}</h1>
+  <h2 class="text-center">Nadstropje {{warehouse.floor}}</h2>
+  <app-data-view *ngIf="warehouse" [warehouseData]="warehouse.warehouse" ></app-data-view>
+
+
+</div>
+
+

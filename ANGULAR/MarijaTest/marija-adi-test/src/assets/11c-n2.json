@@ -1,0 +1,108 @@
+{
+  "building": 2,
+  "floor": 2,
+  "warehouse": {
+    "fruit": [
+      {
+        "name": "Banane",
+        "quantity": 22
+      },
+      {
+        "name": "Jabolka",
+        "quantity": 15
+      },
+      {
+        "name": "Slive",
+        "quantity": 3
+      },
+      {
+        "name": "Limone",
+        "quantity": 0
+      },
+      {
+        "name": "Breskve",
+        "quantity": 12
+      },
+      {
+        "name": "Grozje",
+        "quantity": 0
+      },
+      {
+        "name": "Jagode",
+        "quantity": 2
+      }
+    ],
+    "officeMaterials": [
+      {
+        "name": "Kulije",
+        "quantity": 13
+      },
+      {
+        "name": "Tonerji",
+        "quantity": 6
+      },
+      {
+        "name": "Fascikli",
+        "quantity": 30
+      },
+      {
+        "name": "Papir",
+        "quantity": 15
+      },
+      {
+        "name": "Markerji",
+        "quantity": 6
+      },
+      {
+        "name": "Svinckini",
+        "quantity": 12
+      },
+      {
+        "name": "Kuverte",
+        "quantity": 29
+      },
+      {
+        "name": "Flomastri",
+        "quantity": 3
+      },
+      {
+        "name": "Vlozki in mine",
+        "quantity": 7
+      }
+    ],
+    "drinks": [
+      {
+        "name": "Kava",
+        "quantity": 8
+      },
+      {
+        "name": "Mleko",
+        "quantity": 18
+      },
+      {
+        "name": "Coca-Cola",
+        "quantity": 2
+      },
+      {
+        "name": "Pomarancni",
+        "quantity": 8
+      },
+      {
+        "name": "Jabolcni",
+        "quantity": 9
+      },
+      {
+        "name": "Voda",
+        "quantity": 3
+      },
+      {
+        "name": "Cocta",
+        "quantity": 7
+      },
+      {
+        "name": "Sola",
+        "quantity": 5
+      }
+    ]
+  }
+}

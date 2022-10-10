@@ -1,0 +1,7 @@
+
+<div class="container d-flex justify-content-around" *ngIf="warehouseData">
+  <app-table [data]="warehouseData.drinks" [title]="'Pijace'"></app-table>
+  <app-table [data]="warehouseData.fruit" [title]="'Sadje'"></app-table>
+  <app-table [data]="warehouseData.officeMaterials" [title]="'Pisarniski materijali'"></app-table>
+</div>
+

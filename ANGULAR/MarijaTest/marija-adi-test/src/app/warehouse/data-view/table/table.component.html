@@ -1,0 +1,22 @@
+<div class="table-card shadow-lg rounded">
+  <h3>{{ title }}</h3>
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Ime</th>
+        <th>Kolicina</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of data">
+        <td>• {{ item.name }}:</td>
+        <td>
+          <span [ngClass]="{ red: item.quantity == 0 }">{{
+            item.quantity == 0 ? "Ni Zaloge" : item.quantity
+          }}</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
